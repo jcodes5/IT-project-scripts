@@ -1,0 +1,25 @@
+# Local tooling and environments
+.kilo/
+.venv/
+
+
+# Generated data and outputs
+data/
+logs/
+web_data/
+
+
+# Test/download artifacts
+test_download/
+test_downloads/
+
+
+# Credentials and local configuration
+.dodsrc
+.env
+.env.*
+
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
